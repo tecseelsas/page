@@ -1,0 +1,15 @@
+
+.icon-alarm:before { content: '\e800'; } /* '' */
+.icon-alarm-home:before { content: '\e801'; } /* '' */
+.icon-ca-keyboard:before { content: '\e802'; } /* '' */
+.icon-ca-keyboard-eye:before { content: '\e803'; } /* '' */
+.icon-cctv-bullet:before { content: '\e804'; } /* '' */
+.icon-cctv-dome:before { content: '\e805'; } /* '' */
+.icon-cctv-dome-tow:before { content: '\e806'; } /* '' */
+.icon-cctv-ptz:before { content: '\e807'; } /* '' */
+.icon-laptop-code:before { content: '\e808'; } /* '' */
+.icon-laptop-developer:before { content: '\e809'; } /* '' */
+.icon-st:before { content: '\e80a'; } /* '' */
+.icon-st-tow:before { content: '\e80b'; } /* '' */
+.icon-tecseel:before { content: '\e80c'; } /* '' */
+.icon-web-site:before { content: '\e80e'; } /* '' */
