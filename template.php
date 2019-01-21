@@ -60,7 +60,9 @@ if(!empty($Variables) && $_SERVER['REQUEST_METHOD']=='GET' && $_SESSION['Listo']
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Libraries CSS Files -->
-  <link href="lib/fontawesome/css/all.css" rel="stylesheet">
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="css/all.css">
+  <!-- <link href="lib/fontawesome/css/all.css" rel="stylesheet"> -->
   <link href="lib/fontello/css/fontello.css" rel="stylesheet">
   <!-- <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
   <link href="lib/animate/animate.min.css" rel="stylesheet">

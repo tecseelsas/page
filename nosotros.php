@@ -8,15 +8,7 @@
           <h3>Nuestra Empresa</h3>
           <h4 style="font-family: 'Comfortaa'">Tecseel</h4>
           <p style="text-align: justify;">
-            Es una empresa guajira con experiencia en el suministro e instalación de sistemas electrónicos de seguridad
-            para el
-            sector residencial, empresarial e industrial; Al igual que en le diseño y desarrollo web y el soporte
-            técnico de
-            hardware y software.
-
-            Contamos con los recursos y la infraestructura, que desarrolla y presenta propuestas de valor innovadoras,
-            con espíritu
-            visionario y tecnología de punta, para satisfacer y exceder los requerimientos de nuestros clientes.
+            Es una empresa guajira con experiencia en el suministro e instalación de sistemas de seguridad electrónica para el sector residencial, empresarial e industrial; Al igual que en el diseño y desarrollo web y el soporte técnico de hardware y software. Contamos con los recursos y la infraestructura, que desarrolla y presenta propuestas de valor innovadoras, con espíritu visionario y tecnología de punta, para satisfacer y exceder los requerimientos de nuestros clientes.
           </p>
         </header>
 
